@@ -1,0 +1,2 @@
+- name: Neon Database Create Branch Action
+  uses: neondatabase/create-branch-action@v5.0.0
