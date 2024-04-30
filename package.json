@@ -15,6 +15,7 @@
     "@tanstack/react-query": "^5.32.0",
     "axios": "^1.6.8",
     "dayjs": "^1.11.10",
+    "googleapis": "^135.0.0",
     "next": "14.1.4",
     "next-auth": "^4.24.7",
     "nookies": "^2.5.2",
